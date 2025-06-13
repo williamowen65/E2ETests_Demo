@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebApp", "E2ETests_Demo\DemoWebApp.csproj", "{192E9048-009E-4C37-B0CF-5948F8824F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2ETests", "CloudTests\E2ETests.csproj", "{689BB7B7-1A8D-0EC8-249F-DC954538CF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192E9048-009E-4C37-B0CF-5948F8824F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192E9048-009E-4C37-B0CF-5948F8824F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192E9048-009E-4C37-B0CF-5948F8824F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192E9048-009E-4C37-B0CF-5948F8824F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689BB7B7-1A8D-0EC8-249F-DC954538CF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689BB7B7-1A8D-0EC8-249F-DC954538CF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689BB7B7-1A8D-0EC8-249F-DC954538CF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689BB7B7-1A8D-0EC8-249F-DC954538CF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5737E114-6829-48AF-9FF8-5D58AEE12090}
+	EndGlobalSection
+EndGlobal
